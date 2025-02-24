@@ -1,0 +1,23 @@
+{
+  "name": "claude-coaching-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2p2licut2/claude-coaching-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2p2licut2/claude-coaching-api/issues"
+  },
+  "homepage": "https://github.com/p2p2licut2/claude-coaching-api#readme",
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.37.0"
+  }
+}
